@@ -2,7 +2,7 @@ import requests
 import os
 from requests.exceptions import Timeout
 
-baseURL = "https://gorest.co.in/public/v2/users"
+baseURL = ""
 
 for i in range(4):
     try:
